@@ -1,0 +1,14 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+_ a:hover {
+  text-decoration: underline;
+}
+
+#today-goal {
+  color: rgb(29, 29, 116);
+  font-size: 32px;
+  font-weight: 700;
+}
