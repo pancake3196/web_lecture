@@ -1,0 +1,17 @@
+/* 
+    CSS 과제 (weekly.css 파일 생성)
+    [V]1. 폰트 : 노토산스 ko (외부 웹폰트)
+    [V]2. 여러분의목표들<p> 배경색 넣기, 테두리 적당히 둥글게 깎기
+    [V]3. 글자색 부여하기 (전부 동일)
+    [V]4. 요소 전부 중앙 정렬
+    [V]5. a 태그에 마우스 올리면 배경색 넣기
+*/
+
+p {
+  background-color: rgb(145, 110, 164);
+  border-radius: 3px;
+}
+
+a:hover {
+  background-color: rgb(204, 184, 215);
+}
